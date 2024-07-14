@@ -20,7 +20,7 @@ Proxima is a lightweight proxy server written in Python, designed for secure and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/proxima-proxy.git
+   git clone https://github.com/Hari0mSingh/proxima-proxy.git
    cd proxima-proxy
 ## Contributing
 
